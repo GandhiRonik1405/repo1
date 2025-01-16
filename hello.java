@@ -31,7 +31,7 @@ public class LogoutForm extends JFrame implements ActionListener {
 
         container = getContentPane();
         container.setLayout(null);
-
+edited by rahul
 <<<<<<< HEAD
         userLabel = new JLabel("Username");
         userLabel.setBounds(50, 50, 100, 30);
